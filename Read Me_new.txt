@@ -1,0 +1,3 @@
+Easter Egg:
+
+In Part 1, enter "1111" for both height and weight.  After hitting submit, the Easter Egg will trigger.
